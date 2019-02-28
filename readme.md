@@ -9,5 +9,5 @@ Install Tensorflow
 - https://www.tensorflow.org/install
 
 Repos under consideration
- - https://github.com/cloud-annotations/training
- - https://github.com/sofwerx/android-tensorflow-gun-classification
+ - https://github.com/cloud-annotations/training     SSD MobileNet architecture
+ - https://github.com/sofwerx/android-tensorflow-gun-classification    Inception v3 
