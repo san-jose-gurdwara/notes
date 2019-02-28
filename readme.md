@@ -2,20 +2,20 @@
 
 ## This project documents the steps necessary to setup, train, test and deploy a gun detection model using TensorFlow.
 
-### Install Tensor Flow
+### 1. Install Tensor Flow
 Follow steps documented in https://www.tensorflow.org/install/pip
 
-### Train the gun detection model
+### 2. Train the gun detection model
 
 Repos under consideration
 *  https://github.com/cloud-annotations/training
 * https://github.com/sofwerx/android-tensorflow-gun-classification
 
-### Test the gun detection using open cv
+### 3. Test the gun detection using open cv
 
-### Deploy the model onto a server with camera feeds
+### 4. Deploy the model onto a server with camera feeds
 
-### Other relevant notes/bookmarks
+### 5. Other relevant notes/bookmarks
 
 * https://hub.docker.com/r/danjarvis/tensorflow-android/
 * https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android/README.md
@@ -24,5 +24,5 @@ Repos under consideration
 * https://medium.com/@daj/creating-an-image-classifier-on-android-using-tensorflow-part-2-9ec0698d801e
 * https://github.com/cloud-annotations/training
 * Images - https://storage.googleapis.com/openimages/web/index.html
-* https://github.com/cloud-annotations/training     SSD MobileNet architecture
-* https://github.com/sofwerx/android-tensorflow-gun-classification    Inception v3 
+* SSD MobileNet architecture https://github.com/cloud-annotations/training     
+* Inception v3 https://github.com/sofwerx/android-tensorflow-gun-classification     
