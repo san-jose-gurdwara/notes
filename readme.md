@@ -8,8 +8,8 @@ Follow steps documented in https://www.tensorflow.org/install/pip
 ### 2. Train the gun detection model
 
 Repos under consideration
-*  https://github.com/cloud-annotations/training
-* https://github.com/sofwerx/android-tensorflow-gun-classification
+*  https://github.com/cloud-annotations/training    SSD MobileNet 
+* https://github.com/sofwerx/android-tensorflow-gun-classification    Inception v3
 
 ### 3. Test the gun detection using open cv
 
@@ -24,5 +24,3 @@ Repos under consideration
 * https://medium.com/@daj/creating-an-image-classifier-on-android-using-tensorflow-part-2-9ec0698d801e
 * https://github.com/cloud-annotations/training
 * Images - https://storage.googleapis.com/openimages/web/index.html
-* SSD MobileNet architecture https://github.com/cloud-annotations/training     
-* Inception v3 https://github.com/sofwerx/android-tensorflow-gun-classification     
