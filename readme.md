@@ -24,3 +24,7 @@ Repos under consideration
 * https://medium.com/@daj/creating-an-image-classifier-on-android-using-tensorflow-part-2-9ec0698d801e
 * https://github.com/cloud-annotations/training
 * Images - https://storage.googleapis.com/openimages/web/index.html
+
+
+## 29 March 2019
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#5
